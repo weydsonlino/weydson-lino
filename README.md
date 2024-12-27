@@ -11,8 +11,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em back-end, mas 
 
 ## 🛠 Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, TypeScript
-- **Frameworks & Libraries:** Next.js, NestJS, Quasar, Svelte, React
+- **Linguagens:** JavaScript, TypeScript, PHP
+- **Frameworks & Libraries:** Next.js, NestJS, Svelte, React
 - **Estilo:** Tailwind CSS
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Ferramentas de Desenvolvimento:** Figma, Insomnia, Docker
